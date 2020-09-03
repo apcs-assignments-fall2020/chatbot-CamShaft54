@@ -22,7 +22,7 @@ public class MyTests {
         }
 
         // Currently, it will print out the first expected answer as the "correct" answer
-        // However, the message should illuminate what the correct possibilites are
+        // However, the message should illuminate what the correct possibilities are
         assertEquals(expected[0], actual, message);
     }
 
